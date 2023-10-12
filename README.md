@@ -15,6 +15,6 @@ features
 
 2.We can go to add contact page by clicking add contact button and fill the form to add a contact.
 
-3.We can edit a contact by clicking on the edit icon.
+3.We can edit a contact by clicking on the edit icon.It will go on update page with prefilling the input fields.
 
 4.We can delete a contact by clicking on the delete icon.
